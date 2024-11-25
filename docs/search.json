@@ -4862,7 +4862,7 @@
     "href": "2024/lecture12.html#power-system-modeling-family",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Power system modeling family",
-    "text": "Power system modeling family\n\n\n\n\n\n\n\n\n\nType\nProduction Cost (Unit Commitment and Dispatch)\nNetwork Reliability (AC Power Flow, Dynamics)\nCapacity Expansion\n\n\n\n\nGenerator Adequacy\nYes\nNo\nOften\n\n\nFlexibility Requirement\nYes\nNo\nSomewhat\n\n\nTransmission Adequacy\nPartially\nYes\nTypically No\n\n\nGen Contingencies\nSomewhat\nYes\nNo\n\n\nTransmission Contingencies\nSomewhat\nYes\nNo\n\n\nFrequency Stability\nSomewhat\nYes\nNo\n\n\nVoltage Stability, Voltage control\nNo\nYes\nNo\n\n\nExamples\nPROMOD, GE-Maps, PLEXOS, GridView\nPositive sequence load flow (PSLF), power system simulator for engineering (PSSE)\nNEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku"
+    "text": "Power system modeling family\n\n\n\n\n\n\n\n\n\n\nType\nProduction Cost (Unit Commitment and Dispatch)\nNetwork Reliability (AC Power Flow, Dynamics)\nCapacity Expansion\n\n\n\n\nGenerator Adequacy\nYes\nNo\nOften\n\n\nFlexibility Requirement\nYes\nNo\nSomewhat\n\n\nTransmission Adequacy\nPartially\nYes\nTypically No\n\n\nGen Contingencies\nSomewhat\nYes\nNo\n\n\nTransmission Contingencies\nSomewhat\nYes\nNo\n\n\nFrequency Stability\nSomewhat\nYes\nNo\n\n\nVoltage Stability, Voltage control\nNo\nYes\nNo\n\n\nExamples\nPROMOD, GE-Maps, PLEXOS, GridView\nPositive sequence load flow (PSLF), power system simulator for engineering (PSSE)\nNEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku"
   },
   {
     "objectID": "2024/lecture12.html#capacity-expansion-models",
@@ -4925,7 +4925,7 @@
     "href": "2024/lecture12.html#emerging-trends",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Emerging trends",
-    "text": "Emerging trends\n\nSmart grid\n\nDistributed generation\n\nRenewable penetration\n\nEfficiency improvement\n\nElectrifying\n\nDR/DSM"
+    "text": "Emerging trends\n\nSmart grid\n\nDistributed generation\n\nRenewable penetration\n\nEfficiency improvement\n\nElectrifying\n\nDR/DSM\n\nClimate impact"
   },
   {
     "objectID": "2024/lecture12.html#summary-1",
@@ -5282,6 +5282,20 @@
     "href": "2024/readings.html#lecture-13",
     "title": "Readings",
     "section": "Lecture 13",
-    "text": "Lecture 13\n\nPaul P Craig, Ashok Gadgil, and Jonathan G Koomey “What Can History Teach Us? A Retrospective Examination of Long-Term Energy Forecasts for the United States,” Annual Review of Energy and the Environment 27, no. 1 (2002): 83–118, https://doi.org/10.1146/annurev.energy.27.122001.083425.\nsupran_assessing_2023?\nZeke Hausfather et al. “Evaluating the Performance of Past Climate Model Projections,” Geophysical Research Letters 47, no. 1 (2020): e2019GL085378, https://doi.org/10.1029/2019GL085378.\nMacknick “Energy and CO2 Emission Data Uncertainties.”\nJames S Hodges, James A Dewar, et al. “Is It You or Your Model Talking?: A Framework for Model Validation” (Rand Santa Monica, CA, 1992), https://www.rand.org/pubs/reports/R4114.html.\nWei Peng et al. “Climate Policy Models Need to Get Real about People—Here’s How” (Nature Publishing Group, 2021), https://doi.org/10.1038/d41586-021-01500-2.\nWei Peng et al. “The Surprisingly Inexpensive Cost of State-Driven Emission Control Strategies,” Nature Climate Change 11, no. 9 (2021): 738–45, https://doi.org/10.1038/s41558-021-01128-0.\nAndrea Saltelli et al. “Five Ways to Ensure That Models Serve Society: A Manifesto” (Nature Publishing Group, 2020), https://doi.org/10.1038/d41586-020-01812-9."
+    "text": "Lecture 13\n\nPaul P Craig, Ashok Gadgil, and Jonathan G Koomey “What Can History Teach Us? A Retrospective Examination of Long-Term Energy Forecasts for the United States,” Annual Review of Energy and the Environment 27, no. 1 (2002): 83–118, https://doi.org/10.1146/annurev.energy.27.122001.083425.\nG. Supran, S. Rahmstorf, and N. Oreskes “Assessing ExxonMobil’s Global Warming Projections,” Science 379, no. 6628 (January 2023): eabk0063, https://doi.org/10.1126/science.abk0063.\nZeke Hausfather et al. “Evaluating the Performance of Past Climate Model Projections,” Geophysical Research Letters 47, no. 1 (2020): e2019GL085378, https://doi.org/10.1029/2019GL085378.\nMacknick “Energy and CO2 Emission Data Uncertainties.”\nJames S Hodges, James A Dewar, et al. “Is It You or Your Model Talking?: A Framework for Model Validation” (Rand Santa Monica, CA, 1992), https://www.rand.org/pubs/reports/R4114.html.\nWei Peng et al. “Climate Policy Models Need to Get Real about People—Here’s How” (Nature Publishing Group, 2021), https://doi.org/10.1038/d41586-021-01500-2.\nWei Peng et al. “The Surprisingly Inexpensive Cost of State-Driven Emission Control Strategies,” Nature Climate Change 11, no. 9 (2021): 738–45, https://doi.org/10.1038/s41558-021-01128-0.\nAndrea Saltelli et al. “Five Ways to Ensure That Models Serve Society: A Manifesto” (Nature Publishing Group, 2020), https://doi.org/10.1038/d41586-020-01812-9."
+  },
+  {
+    "objectID": "2024/lecture12.html#ai-and-data-center-power-consumption",
+    "href": "2024/lecture12.html#ai-and-data-center-power-consumption",
+    "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
+    "section": "AI and data center power consumption",
+    "text": "AI and data center power consumption\n\n\nSource: EPRI, Powering Intelligence"
+  },
+  {
+    "objectID": "2024/lecture12.html#power-systems-analysis",
+    "href": "2024/lecture12.html#power-systems-analysis",
+    "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
+    "section": "Power Systems Analysis",
+    "text": "Power Systems Analysis"
   }
 ]
