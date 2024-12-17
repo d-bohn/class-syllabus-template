@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+#New course number: PAF 9187
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
@@ -16,8 +17,6 @@ title: Syllabus
 **Instructor**: Gang He
 
 **Email**: <gang.he@baruch.cuny.edu>	
-
-**Office Hours**: Thu 1-3pm
 
 **Location**: Online 
 
